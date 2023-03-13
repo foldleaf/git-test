@@ -1,3 +1,3 @@
 # git-test
 
-测试git的用法
+用于测试git的用法
